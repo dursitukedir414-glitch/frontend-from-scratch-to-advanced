@@ -1,0 +1,28 @@
+body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center; 
+            align-items: center;    
+            background-color: #bcbfc5;
+        }
+
+        .profile-card {
+            width: 350px;             
+            border: 2px solid #333;   
+            padding: 20px;               
+            margin: 20px;              
+            background-color: rgb(185, 186, 197);     
+            color: #333;                  
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 5px;
+        }
+
+        h4 {
+            color: #072235;
+            margin-top: 0;
+        }
